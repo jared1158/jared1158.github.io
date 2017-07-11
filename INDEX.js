@@ -1,0 +1,2 @@
+console.log("ITS TIME TO GET SCWHIFTY");
+alert("ITS TIME TO GET SCWHIFTY!!");
