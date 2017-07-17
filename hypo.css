@@ -1,7 +1,7 @@
 h1 {
     color: 1514B6;
     font-size: 50px;
- 
+
 }
 
 html {
@@ -11,6 +11,7 @@ background-color: 33A6FF;
 
 p {
   text-indent: 30px;
+  color: 33A6FF;
 }
 h2{
   color: ABA8A8;
